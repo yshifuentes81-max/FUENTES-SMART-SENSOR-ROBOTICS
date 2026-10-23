@@ -1,3 +1,6 @@
+import streamlit as st
+import pandas as pd
+
 st.title("Smart Temperature Monitoring System")
 
 st.write("Arduino Uno + DHT22 Sensor Simulation")
